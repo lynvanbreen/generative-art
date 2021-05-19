@@ -11,7 +11,7 @@
 
 ## Concept
 
-`Mijn concept is een sound visualiser. Ik ben namelijk dol op muziek, en in het bijzonder K-Pop. Het liedje dat ik heb gebruikt voor mijn visualiser is Gas Station van JUNE. Een nummer dat mij altijd goede vibes brengt. De visualiser moet er een beetje retro uitzien en je laten denken aan de Windows Media Player van Windows XP. Dit werd gebruikt als screensaver als je muziek afspeelde zodat je scherm niet in zou branden, maar ik vond het visueel altijd erg interesssant.`
+`Mijn concept is een sound visualiser. Ik ben namelijk dol op muziek, en in het bijzonder K-Pop. Het liedje dat ik heb gebruikt voor mijn visualiser is Gas Station van JUNE. Een nummer dat mij altijd goede vibes brengt, iets wat in deze tijd hard nodig is. Zeker nu in de tijd dat thuis werken de norm is, is het fijn om de stilte te vullen met muziek. Je kunt luisteren wat je wil en kan eigenlijk non-stop muziek aan hebben tijdens het werken (en dat is wat ik doe). De visualiser moet er een beetje retro uitzien en je laten denken aan de Windows Media Player van Windows XP. Dit werd gebruikt als screensaver als je muziek afspeelde zodat je scherm niet in zou branden, maar ik vond het visueel altijd erg interesssant.`
 
 ## Features
 
